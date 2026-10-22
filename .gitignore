@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -41,7 +40,6 @@ Thumbs.db
 examples/output/
 *.json
 *.csv
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -262,4 +260,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
->>>>>>> origin/main
