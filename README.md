@@ -10,7 +10,16 @@ realistic banking domain.
 
 ---
 
+## Internship Projects
+- **Task 1: Multi-Currency Banking & Ledger Engine** (documented below)
+- **Task 2: [SOLID Notification & Alert Dispatch Framework](task-2-notification-dispatch/README.md)**
+
+---
+
 ## Table of Contents
+
+- [Task 1: Multi-Currency Banking & Ledger Engine](#project-overview)
+- [Task 2: SOLID Notification & Alert Framework](task-2-notification-dispatch/README.md)
 
 1. [Project Overview](#project-overview)
 2. [OOP Pillars Demonstrated](#oop-pillars-demonstrated)

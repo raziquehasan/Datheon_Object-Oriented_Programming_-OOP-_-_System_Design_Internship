@@ -260,3 +260,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local desktop duplicate
+banking-ledger-engine/
